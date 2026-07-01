@@ -116,5 +116,3 @@ Through this project, I learned:
 GitHub: https://github.com/shivacharanpalai674-cloud
 
 ---
-
-## ⭐ If you found this project useful, feel free to star the repository!
